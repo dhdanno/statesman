@@ -1,0 +1,19 @@
+{
+  "name": "wambulance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/app.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "daemon":  "latest",
+    "amqplib": "latest",
+    "fs":      "latest",
+    "debug":   "latest",
+    "elasticsearch": "11.0.1"
+  }
+}
