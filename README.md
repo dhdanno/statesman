@@ -1,5 +1,5 @@
 # Statesman
-## (Node Alert Daemon)
+## (Node AMQP Subscriber)
 
 ## Synopsis
 Multi process Node.js app which reacts to mesages on an AMQP bus to maintain the state table. 
